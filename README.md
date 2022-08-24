@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ruciuuu
-- 👀 I’m interested in Finance, Web Dev and WEB3
-- 🌱 I’m currently learning HTML, CSS, Ethers.js and Solidity
+- 👀 I’ve lost my interest to coding :)
+- 🌱 I as learning HTML, CSS, Ethers.js and Solidity
 
 
